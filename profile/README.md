@@ -1,4 +1,11 @@
-## Hi from team NeSI 👋
+## NeSI Integration with REANNZ
+
+On 01 July 2025, New Zealand eScience Infrastructure (NeSI) was integrated into the Crown company, Research and Education Advanced Network New Zealand (REANNZ) Ltd.
+
+NeSI’s services and technologies are now hosted by REANNZ as a national [eResearch Infrastructure Platform](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/funded-infrastructure/eresearch-infrastructure-platform).
+
+Some of our tools (e.g. [my.nesi.org.nz](https://my.nesi.org.nz/login)) will retain a ‘NeSI’ brand as we transition our services and develop a longer-term strategy for this integrated platform.
+
 
 <!--
 
